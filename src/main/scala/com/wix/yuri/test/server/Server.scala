@@ -9,5 +9,4 @@ object Server extends BootstrapServer {
 
 @Configuration
 class ServerWiring {
-
 }
